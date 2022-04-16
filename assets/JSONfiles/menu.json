@@ -1,0 +1,12 @@
+[
+    {
+        "id":0,
+        "naziv":"Shop",
+        "href":"index.html"
+    },
+    {
+        "id":1,
+        "naziv":"Cart",
+        "href":"cart.html"
+    }
+]

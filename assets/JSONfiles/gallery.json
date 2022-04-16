@@ -1,0 +1,34 @@
+[
+    {
+      "id": 0,
+      "src":"assets/images/gallery1.jpg"
+    },
+    {
+      "id": 1,
+      "src":"assets/images/gallery2.jpg"
+    },
+    {
+      "id": 2,
+      "src":"assets/images/gallery3.jpg"
+    },
+    {
+      "id": 3,
+      "src":"assets/images/gallery4.jpg"
+    },
+    {
+      "id": 4,
+      "src":"assets/images/gallery5.jpg"
+    },
+    {
+      "id": 5,
+      "src":"assets/images/gallery6.jpg"
+    },
+    {
+      "id": 6,
+      "src":"assets/images/gallery7.jpg"
+    },
+    {
+      "id": 7,
+      "src":"assets/images/gallery8.jpg"
+    }
+]

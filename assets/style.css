@@ -295,3 +295,11 @@ footer a {
     width:30px;
 }
 /* End of author */
+
+/*Start of contact*/
+
+.alert-danger{
+    display: none;
+}
+
+/*End of contact*/

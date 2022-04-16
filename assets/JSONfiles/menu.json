@@ -8,5 +8,10 @@
         "id":1,
         "naziv":"Cart",
         "href":"cart.html"
+    },
+    {
+        "id":1,
+        "naziv":"Contact",
+        "href":"contact.html"
     }
 ]

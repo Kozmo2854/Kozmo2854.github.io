@@ -18,7 +18,10 @@ window.onload = function () {
     })
 
     function checkInputs(inputName) {
-        if ($(`.${inputName}`).val() == "" || (inputName == "Radio" && $(`.${inputName}:checked`).length == 0)) {
+        var emailRegex = /\S+@\S+\.\S+/;
+        if ($(`.${inputName}`).val() == "" ||
+            (inputName == "Radio" && $(`.${inputName}:checked`).length == 0) ||
+            (inputName == "Email" && emailRegex.test($(`.${inputName}`).val()) == 0)) {
             $(`.displayError${inputName}`).show();
             return 1;
         } else {

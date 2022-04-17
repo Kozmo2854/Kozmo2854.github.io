@@ -146,7 +146,7 @@ function displayCartFull(productsTodisplay,ispis){
                     <td>${product.name}</td>
                     <td></td>
                     <td><input class="form-control productQuantity" data-id=${product.id} type="text" value=${product.quantity} /></td>
-                    <td class="text-right">${product.quantity * product.price} &euro;</td>
+                    <td class="text-right">${product.quantity * product.price} RSD</td>
                     <td class="text-right"><button class="btn btn-sm btn-danger trash" value=${product.id}><i class="fa fa-trash"></i> </button> </td>
                 </tr>
             `
